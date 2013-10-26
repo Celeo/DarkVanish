@@ -1,0 +1,16 @@
+name: DarkVanish
+version: 1.3.0.7
+author: Celeo
+webiste: www.darktidegames.com
+description: DarkTide's customized vanish plugin. We're always watching. I see you ...
+main: com.darktidegames.celeo.DarkVanish
+commands:
+  vanish:
+    usage: /<command> [switch]
+    description: (De)Vanish the player
+  poof:
+    usage: /<command> [switch]
+    desriptoin: (De)Vanish the player (no log message)
+  pickup:
+    usage: /<command> [on|off]
+    description: En-/Dis- ables item pickup for the player
